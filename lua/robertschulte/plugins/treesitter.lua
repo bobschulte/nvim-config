@@ -26,6 +26,7 @@ treesitter.setup({
 		"markdown",
 		"svelte",
 		"graphql",
+		"prisma",
 		"bash",
 		"lua",
 		"vim",
